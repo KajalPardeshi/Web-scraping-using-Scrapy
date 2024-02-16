@@ -1,1 +1,1 @@
-# Web-scraping-using-Scrapy
+Project on webscraping using Scrapy framework
